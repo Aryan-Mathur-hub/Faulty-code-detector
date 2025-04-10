@@ -94,7 +94,3 @@ This will load the models and predict if the analyzed code is **Faulty** or **No
 ## 📄 License
 
 MIT License
-
----
-
-Let me know if you’d like to add usage screenshots, evaluation metrics, or contribution guidelines!
