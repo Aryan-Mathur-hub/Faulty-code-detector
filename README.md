@@ -88,9 +88,3 @@ This will load the models and predict if the analyzed code is **Faulty** or **No
 
 - Based on the **PROMISE repository**
 - Processed: `jm1`, `kc1`
-
----
-
-## 📄 License
-
-MIT License
